@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/Test/:/",
-    "/content/Test/configuration:/.helix/config.json"
+    "/content/shashi-eds/:/",
+    "/content/shashi-eds/configuration:/.helix/config.json"
   ]
 }
