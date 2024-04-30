@@ -5,7 +5,10 @@ main .hero-container > div {
 main .hero-container {
   padding: 0;
 }
+main .section .h2{
+    color: green;
 
+}
 .hero {
   position: relative;
   padding: 32px;
