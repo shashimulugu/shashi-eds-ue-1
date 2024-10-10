@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p8661-e624335.adobeaemcloud.com/bin/franklin.delivery/shashimulugu/shashi-eds-ue-1/main"
-    type: "markup"
-    suffix: ".html"
+  /:    https://drive.google.com/drive/folders/1XvIX8DgXRd8WwfTnmnb1rO8Cavy9iGRm
