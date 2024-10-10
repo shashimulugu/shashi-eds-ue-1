@@ -170,7 +170,7 @@ a.button.secondary, button.secondary {
 
 main img {
   max-width: 100%;
-  width: auto;
+ // width: auto;
   height: 350px;
 }
 
