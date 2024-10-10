@@ -1,1 +1,17 @@
-
+{
+  "plugins": [
+    {
+      "id": "aemedit",
+      "title": "Edit",
+      "environments": [ "dev", "preview", "live" ],
+      "event": "aemedit"
+    },
+	{
+      "id": "publish",
+      "title": "Publish",
+      "environments": [ "dev", "preview", "live" ],
+      "event": "publish"
+    }
+	
+  ]
+}
